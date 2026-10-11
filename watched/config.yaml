@@ -1,0 +1,4 @@
+featureFlags:
+  newDashboard: false
+database:
+  host: localhost
