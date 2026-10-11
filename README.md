@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SyncWorks Configuration Change Monitor
 
 SyncWorks watches `.env`, JSON, YAML/YML, and Java properties files, stores valid snapshots, calculates structured dot-notation diffs, and delivers durable change events through a queue and webhook.
@@ -124,3 +125,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# configuration_monitoring_system
+>>>>>>> d763f4c02ecb5fe5f313166df47023a4d4c9f4a3
